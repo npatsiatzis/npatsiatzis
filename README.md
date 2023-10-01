@@ -19,4 +19,5 @@ Here are some ideas to get you started:
   - :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_systemverilog_icon_130431.png" title="sv" alt="sv" width="40" height="40"/>&nbsp;
 </div>

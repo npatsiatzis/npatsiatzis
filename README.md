@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - :man_technologist: About Me :
+- :hammer_and_wrench: Languages and Tools :
 - 📫 How to reach me: ...

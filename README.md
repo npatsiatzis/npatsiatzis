@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - :man_technologist: About Me
 
   - :hammer_and_wrench: Languages and Tools :
-  ![img]([C:\Users\npats\OneDrive\Desktop\SystemVerilog_logo.svg)
+  ![img](/home/nikos/Downloads/sv_logo.png)
   

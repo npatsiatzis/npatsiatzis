@@ -23,5 +23,5 @@ Here are some ideas to get you started:
   <img src="https://uvm.io/images/uvm-logo.svg" title="uvm" alt="uvm" width="40" height="40"/>&nbsp;
   <img src="https://www.cocotb.org/assets/img/cocotb-logo.svg" title="cocotb" alt="cocotb" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" title="vivado" alt="vivado" width="40" height="40"/>&nbsp;
-  <img src="https://p1.hiclipart.com/preview/678/218/574/logo-logo-git-line-cheat-sheet-signage-cheating-mug-png-clipart.jpg" title="vivado" alt="vivado" width="40" height="40"/>&nbsp;
+  <img src="https://logowik.com/content/uploads/images/git6963.jpg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>

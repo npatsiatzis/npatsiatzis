@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 - :man_technologist: About Me
-- ---
-
   - :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://www.ggateway.tech/wp-content/uploads/2022/02/VHDL-logo.png" title="vhdl" alt="vhdl" width="40" height="40"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_systemverilog_icon_130431.png" title="sv" alt="sv" width="40" height="40"/>&nbsp;
+  <img src="https://ghdl.github.io/ghdl/_static/logo.png" title="ghdl" alt="ghdl" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/en/9/93/Verilator_logo.png" title="verilator" alt="verilator" width="40" height="40"/>&nbsp;
   <img src="https://uvm.io/images/uvm-logo.svg" title="uvm" alt="uvm" width="40" height="40"/>&nbsp;
   <img src="https://www.cocotb.org/assets/img/cocotb-logo.svg" title="cocotb" alt="cocotb" width="40" height="40"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" title="vivado" alt="vivado" width="40" height="40"/>&nbsp;
 </div>

@@ -16,7 +16,5 @@ Here are some ideas to get you started:
 - :man_technologist: About Me
 
   - :hammer_and_wrench: Languages and Tools :
-  <div>
-    <img src="https://en.wikipedia.org/wiki/SystemVerilog#/media/File:SystemVerilog_logo.png" title="SystemVerilog" alt="SystemVerilog" width="40" height="40"/>&nbsp;
-</div> 
+  ![img](C:\Users\npats\OneDrive\Desktop\SystemVerilog_logo.svg)
   

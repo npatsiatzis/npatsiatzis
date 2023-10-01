@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - :man_technologist: About Me
 
   - :hammer_and_wrench: Languages and Tools :
-  ![img](/home/nikos/Downloads/sv_logo.png)
+![im](https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg)
   
